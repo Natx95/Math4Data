@@ -140,3 +140,10 @@ I = V
 **12)** Calcula la pendiente y ordenada al origen de la siguiente recta:
 
 <img  src='./figuras/EX_12.png' height='270px'>
+punto m = (0,2) punto n = (4,0)
+pendiente = 0-2/4-0; -2/4 = -0,5
+ordenada al origen = f(x)= -0,5*x + b; reemplazo por un punto de la recta
+y despejo para obtener el valor de la ordenada al origen
+2= -0,5*0 + b; b = 2.
+pendiente = -0,5
+ordenada al origen = 2
