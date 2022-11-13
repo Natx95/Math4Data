@@ -1,7 +1,7 @@
 
 **1)** Calcula los siguientes límites. Redondea la respuesta a su PRIMER número decimal o responde inf en caso de infinito o -inf en caso de menos infinito.
 
-    a- lim x->2 de f(x) = 2*x + 1
+    a- lim x->2 de f(x) = 2*x + 1 = 
     b- lim x->0+ de f(x) = 1 - 1/x
     c- lim k->inf de g(k) = 10 + 1/log(k)
     d- lim h->10 de g(h) = 1/(h-10)
